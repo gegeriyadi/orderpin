@@ -1,0 +1,43 @@
+User
+===
+id
+username
+email
+phone_number
+password
+
+Alamat Pengiriman
+===
+id
+alamat
+kelurahan
+kecamatan
+provinsi
+
+Produk
+===
+id
+jenis_produk
+	pin peniti
+	pin cermin
+	pin boneka
+
+Invoice
+===
+id
+nomor_invoice
+
+Status order
+===
+id
+status
+	menunggu pembayaran
+	sedang diproses
+	dalam pengiriman
+	barang sudah diterima
+	
+Order
+===
+id
+jumlah_pin
+total_harga

@@ -1,0 +1,1 @@
+<h1> Halo {{ $user->name }} || no passportnya {{ $user->passport->no_pass }} </h1>
