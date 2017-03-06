@@ -237,7 +237,6 @@
         },
         {
             "name": "laravel/framework",
-<<<<<<< HEAD
             "version": "v5.4.13",
             "source": {
                 "type": "git",
@@ -248,18 +247,6 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/framework/zipball/3eebfaa759156e06144892b00bb95304aa5a71c1",
                 "reference": "3eebfaa759156e06144892b00bb95304aa5a71c1",
-=======
-            "version": "v5.4.12",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/laravel/framework.git",
-                "reference": "707f32d32dce58232f7a860e0a1d62caf6f9dbfc"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/707f32d32dce58232f7a860e0a1d62caf6f9dbfc",
-                "reference": "707f32d32dce58232f7a860e0a1d62caf6f9dbfc",
->>>>>>> 50eddecf0c393bfe9832f5764d9ccd604bc2524a
                 "shasum": ""
             },
             "require": {
@@ -375,11 +362,7 @@
                 "framework",
                 "laravel"
             ],
-<<<<<<< HEAD
             "time": "2017-02-22T16:07:04+00:00"
-=======
-            "time": "2017-02-15T14:31:32+00:00"
->>>>>>> 50eddecf0c393bfe9832f5764d9ccd604bc2524a
         },
         {
             "name": "laravel/tinker",
@@ -2343,7 +2326,6 @@
         },
         {
             "name": "phpunit/php-code-coverage",
-<<<<<<< HEAD
             "version": "4.0.6",
             "source": {
                 "type": "git",
@@ -2354,29 +2336,13 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/ca060f645beeddebedb1885c97bf163e93264c35",
                 "reference": "ca060f645beeddebedb1885c97bf163e93264c35",
-=======
-            "version": "4.0.5",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
-                "reference": "c19cfc7cbb0e9338d8c469c7eedecc2a428b0971"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/c19cfc7cbb0e9338d8c469c7eedecc2a428b0971",
-                "reference": "c19cfc7cbb0e9338d8c469c7eedecc2a428b0971",
->>>>>>> 50eddecf0c393bfe9832f5764d9ccd604bc2524a
                 "shasum": ""
             },
             "require": {
                 "php": "^5.6 || ^7.0",
                 "phpunit/php-file-iterator": "~1.3",
                 "phpunit/php-text-template": "~1.2",
-<<<<<<< HEAD
                 "phpunit/php-token-stream": "^1.4.2 || ^2.0",
-=======
-                "phpunit/php-token-stream": "^1.4.2",
->>>>>>> 50eddecf0c393bfe9832f5764d9ccd604bc2524a
                 "sebastian/code-unit-reverse-lookup": "~1.0",
                 "sebastian/environment": "^1.3.2 || ^2.0",
                 "sebastian/version": "~1.0|~2.0"
@@ -2419,11 +2385,7 @@
                 "testing",
                 "xunit"
             ],
-<<<<<<< HEAD
             "time": "2017-02-23T07:38:02+00:00"
-=======
-            "time": "2017-01-20T15:06:43+00:00"
->>>>>>> 50eddecf0c393bfe9832f5764d9ccd604bc2524a
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -2559,7 +2521,6 @@
         },
         {
             "name": "phpunit/php-token-stream",
-<<<<<<< HEAD
             "version": "1.4.10",
             "source": {
                 "type": "git",
@@ -2570,18 +2531,6 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/php-token-stream/zipball/284fb0679dd25fb5ffb56dad92c72860c0a22f1b",
                 "reference": "284fb0679dd25fb5ffb56dad92c72860c0a22f1b",
-=======
-            "version": "1.4.9",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/sebastianbergmann/php-token-stream.git",
-                "reference": "3b402f65a4cc90abf6e1104e388b896ce209631b"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-token-stream/zipball/3b402f65a4cc90abf6e1104e388b896ce209631b",
-                "reference": "3b402f65a4cc90abf6e1104e388b896ce209631b",
->>>>>>> 50eddecf0c393bfe9832f5764d9ccd604bc2524a
                 "shasum": ""
             },
             "require": {
@@ -2617,11 +2566,7 @@
             "keywords": [
                 "tokenizer"
             ],
-<<<<<<< HEAD
             "time": "2017-02-23T06:14:45+00:00"
-=======
-            "time": "2016-11-15T14:06:22+00:00"
->>>>>>> 50eddecf0c393bfe9832f5764d9ccd604bc2524a
         },
         {
             "name": "phpunit/phpunit",
